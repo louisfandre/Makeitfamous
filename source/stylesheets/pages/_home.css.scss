@@ -4,6 +4,7 @@
 	height: 550px;
 	h1 {
 		color: white; 
+		font-size: 50px;
 		text-shadow: 2px 2px rgb(0,0,0);
 	}
 }
@@ -16,10 +17,14 @@
 	color: white;
 	height: 400px;
 	padding-top: 120px;
-	h2 {
+	h3 {
 		padding: 20px;
 	}
 }
-.title {
+.titre {
 	padding: 20px;
+	margin-bottom: 20px;
+	h2{
+		font-size: 45px; 
+	}
 }
