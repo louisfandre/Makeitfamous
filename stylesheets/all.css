@@ -9243,6 +9243,19 @@ button.close {
 .fa-meanpath:before {
   content: ""; }
 
+/* line 2, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/layout/_footer.css.scss */
+#footer {
+  font-family: Amatic SC;
+  Font-size: 20px;
+  background-color: #474747;
+  color: white;
+  padding: 20px; }
+
+/* line 9, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/layout/_footer.css.scss */
+.footericon {
+  font-size: 20px;
+  Color: white; }
+
 /* -------------------------------------
  * Colors & Fonts
  * ------------------------------------- */
@@ -9370,6 +9383,10 @@ button.close {
   /* line 19, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
   .description h2 {
     padding: 20px; }
+
+/* line 23, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+.title {
+  padding: 20px; }
 
 /*
 ==============================================
