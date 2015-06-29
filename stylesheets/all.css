@@ -9367,26 +9367,31 @@ button.close {
   /* line 5, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
   #wrapper h1 {
     color: white;
+    font-size: 50px;
     text-shadow: 2px 2px black; }
 
-/* line 10, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+/* line 11, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .icon {
   font-size: 75px; }
 
-/* line 13, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+/* line 14, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .description {
   background-color: #474747;
   width: cover;
   color: white;
   height: 400px;
   padding-top: 120px; }
-  /* line 19, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
-  .description h2 {
+  /* line 20, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+  .description h3 {
     padding: 20px; }
 
-/* line 23, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
-.title {
-  padding: 20px; }
+/* line 24, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+.titre {
+  padding: 20px;
+  margin-bottom: 20px; }
+  /* line 27, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+  .titre h2 {
+    font-size: 45px; }
 
 /*
 ==============================================
