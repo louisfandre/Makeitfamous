@@ -9359,6 +9359,10 @@ button.close {
   background: #6452BD;
   color: white; }
 
+/* line 1, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/components/_button.css.scss */
+.bouton {
+  font-size: 25px; }
+
 /* line 1, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 #wrapper {
   background-image: url("../../images/wrapper.jpg");
@@ -9368,7 +9372,7 @@ button.close {
   #wrapper h1 {
     color: white;
     font-size: 50px;
-    text-shadow: 2px 2px black; }
+    text-shadow: 2px 2px #bebebe; }
 
 /* line 11, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .icon {
@@ -9379,8 +9383,8 @@ button.close {
   background-color: #474747;
   width: cover;
   color: white;
-  height: 400px;
-  padding-top: 120px; }
+  height: 500px;
+  padding-top: 50px; }
   /* line 20, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
   .description h3 {
     padding: 20px; }
@@ -9392,6 +9396,19 @@ button.close {
   /* line 27, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
   .titre h2 {
     font-size: 45px; }
+
+/* line 31, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+.pad {
+  padding: 30px; }
+
+/* line 34, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+.left-pad {
+  padding-left: 50px;
+  padding-top: 50px; }
+
+/* line 38, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+.rownd {
+  border-radius: 20%; }
 
 /*
 ==============================================
