@@ -9376,39 +9376,44 @@ button.close {
 
 /* line 11, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .icon {
-  font-size: 75px; }
+  font-size: 75px;
+  color: white; }
 
-/* line 14, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+/* line 15, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .description {
   background-color: #474747;
   width: cover;
   color: white;
   height: 500px;
   padding-top: 50px; }
-  /* line 20, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+  /* line 21, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
   .description h3 {
     padding: 20px; }
 
-/* line 24, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+/* line 25, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .titre {
   padding: 20px;
   margin-bottom: 20px; }
-  /* line 27, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+  /* line 28, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
   .titre h2 {
     font-size: 45px; }
 
-/* line 31, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+/* line 32, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .pad {
   padding: 30px; }
 
-/* line 34, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+/* line 35, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .left-pad {
   padding-left: 50px;
   padding-top: 50px; }
 
-/* line 38, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+/* line 39, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
 .rownd {
   border-radius: 20%; }
+
+/* line 42, /Users/Louis/Documents/MIF/makeitfamous/source/stylesheets/pages/_home.css.scss */
+a {
+  text-decoration: none; }
 
 /*
 ==============================================
